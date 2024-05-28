@@ -1,0 +1,43 @@
+points=4000
+Level 1 - Silhouette: 0.3600, Davies-Bouldin: 0.6789, Calinski-Harabasz: 6992.1362, number of clustring : 1556
+Level 2 - Silhouette: 0.3079, Davies-Bouldin: 0.8399, Calinski-Harabasz: 6270.4573, number of clustring : 623
+Level 3 - Silhouette: 0.2760, Davies-Bouldin: 0.8936, Calinski-Harabasz: 6320.6102, number of clustring : 247
+Level 4 - Silhouette: 0.2118, Davies-Bouldin: 1.0113, Calinski-Harabasz: 6835.5420, number of clustring : 100
+Level 5 - Silhouette: 0.1960, Davies-Bouldin: 1.0787, Calinski-Harabasz: 7959.0913, number of clustring : 37
+Level 6 - Silhouette: 0.2118, Davies-Bouldin: 1.1811, Calinski-Harabasz: 9316.4337, number of clustring : 16
+Level 7 - Silhouette: 0.4856, Davies-Bouldin: 0.8667, Calinski-Harabasz: 13229.7218, number of clustring : 7
+Level 8 - Silhouette: 0.4425, Davies-Bouldin: 0.7747, Calinski-Harabasz: 2664.5131, number of clustring : 3
+Level 9 - Silhouette: 0.5150, Davies-Bouldin: 0.9051, Calinski-Harabasz: 3854.8741, number of clustring : 2
+Level 10 - Single cluster detected, skipping evaluation.
+(1867686, 257966266)
+time  83.6600022315979
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Linkage: ward
+Silhouette Score: 0.6664078943445768
+Davies-Bouldin Index: 0.40286636711794
+Calinski-Harabasz Index: 16433.283760926843
+Average Silhouette Per Sample: 0.6664078943445768
+number cluster: 4
+
+Linkage: complete
+Silhouette Score: 0.6428418786686315
+Davies-Bouldin Index: 0.4796307511699487
+Calinski-Harabasz Index: 15402.043153473729
+Average Silhouette Per Sample: 0.6428418786686315
+number cluster: 4
+
+Linkage: average
+Silhouette Score: 0.6656725530356468
+Davies-Bouldin Index: 0.4020359242499111
+Calinski-Harabasz Index: 16445.53472328636
+Average Silhouette Per Sample: 0.6656725530356468
+number cluster: 4
+
+Linkage: single
+Silhouette Score: 0.2124084888544352
+Davies-Bouldin Index: 0.6858164934254875
+Calinski-Harabasz Index: 963.2366855952521
+Average Silhouette Per Sample: 0.2124084888544352
+number cluster: 4
+

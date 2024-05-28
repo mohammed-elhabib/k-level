@@ -1,0 +1,15 @@
+points= 3000
+Level 1 - Silhouette: 0.3647, Davies-Bouldin: 0.6649, Calinski-Harabasz: 5406.7892, number of clustring : 1206
+Level 2 - Silhouette: 0.3248, Davies-Bouldin: 0.8101, Calinski-Harabasz: 4305.6189, number of clustring : 477
+Level 3 - Silhouette: 0.2886, Davies-Bouldin: 0.8976, Calinski-Harabasz: 3991.1192, number of clustring : 190
+Level 4 - Silhouette: 0.2702, Davies-Bouldin: 0.9394, Calinski-Harabasz: 3930.5814, number of clustring : 74
+Level 5 - Silhouette: 0.2535, Davies-Bouldin: 1.0507, Calinski-Harabasz: 3966.3946, number of clustring : 27
+Level 6 - Silhouette: 0.3073, Davies-Bouldin: 0.8470, Calinski-Harabasz: 4431.3765, number of clustring : 12
+Level 7 - Silhouette: 0.3747, Davies-Bouldin: 0.6744, Calinski-Harabasz: 3875.8117, number of clustring : 6
+Level 8 - Silhouette: 0.3305, Davies-Bouldin: 0.8501, Calinski-Harabasz: 1690.8569, number of clustring : 3
+Level 9 - Silhouette: 0.3798, Davies-Bouldin: 1.1640, Calinski-Harabasz: 1838.8639, number of clustring : 2
+Level 10 - Single cluster detected, skipping evaluation.
+(1534785, 145609361)
+time  46.39940547943115
+
+Process finished with exit code 0

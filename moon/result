@@ -1,0 +1,44 @@
+points=3000
+
+Level 1 - Silhouette: 0.3520, Davies-Bouldin: 0.6878, Calinski-Harabasz: 7205.6613, number of clustring : 1190
+Level 2 - Silhouette: 0.3082, Davies-Bouldin: 0.8447, Calinski-Harabasz: 5898.2352, number of clustring : 473
+Level 3 - Silhouette: 0.2583, Davies-Bouldin: 0.9531, Calinski-Harabasz: 5418.6905, number of clustring : 191
+Level 4 - Silhouette: 0.2659, Davies-Bouldin: 0.9703, Calinski-Harabasz: 5818.9340, number of clustring : 74
+Level 5 - Silhouette: 0.2922, Davies-Bouldin: 1.0189, Calinski-Harabasz: 6147.7685, number of clustring : 31
+Level 6 - Silhouette: 0.3480, Davies-Bouldin: 0.7502, Calinski-Harabasz: 5099.6663, number of clustring : 12
+Level 7 - Silhouette: 0.4425, Davies-Bouldin: 0.7208, Calinski-Harabasz: 4807.3560, number of clustring : 6
+Level 8 - Silhouette: 0.4006, Davies-Bouldin: 0.9452, Calinski-Harabasz: 3783.2937, number of clustring : 3
+Level 9 - Silhouette: 0.4392, Davies-Bouldin: 0.7438, Calinski-Harabasz: 3079.5632, number of clustring : 2
+Level 10 - Single cluster detected, skipping evaluation.
+(1533069, 145607533)
+time  49.69195580482483
+
+Linkage: ward
+Silhouette Score: 0.42283998690246183
+Davies-Bouldin Index: 0.7940058320750305
+Calinski-Harabasz Index: 3894.3702411103136
+Average Silhouette Per Sample: 0.42283998690246183
+number cluster: 4
+
+Linkage: complete
+Silhouette Score: 0.3824835536617249
+Davies-Bouldin Index: 0.8491320116089262
+Calinski-Harabasz Index: 3562.9438061489095
+Average Silhouette Per Sample: 0.3824835536617249
+number cluster: 4
+
+Linkage: average
+Silhouette Score: 0.39308626464297747
+Davies-Bouldin Index: 0.8426282390020344
+Calinski-Harabasz Index: 3509.360414687879
+Average Silhouette Per Sample: 0.39308626464297747
+number cluster: 4
+
+Linkage: single
+Silhouette Score: -0.38359789440298886
+Davies-Bouldin Index: 1.89084035245781
+Calinski-Harabasz Index: 1.2399919187781698
+Average Silhouette Per Sample: -0.38359789440298886
+number cluster: 4
+
+

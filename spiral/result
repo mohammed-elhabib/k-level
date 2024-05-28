@@ -1,0 +1,45 @@
+points= 3000
+Level 1 - Silhouette: 0.3306, Davies-Bouldin: 0.4889, Calinski-Harabasz: 626190.7759, number of clustring : 1325
+Level 2 - Silhouette: 0.4097, Davies-Bouldin: 0.4947, Calinski-Harabasz: 335837.5867, number of clustring : 576
+Level 3 - Silhouette: 0.4529, Davies-Bouldin: 0.4989, Calinski-Harabasz: 156069.7448, number of clustring : 248
+Level 4 - Silhouette: 0.4729, Davies-Bouldin: 0.5003, Calinski-Harabasz: 70714.1111, number of clustring : 111
+Level 5 - Silhouette: 0.4930, Davies-Bouldin: 0.5019, Calinski-Harabasz: 31299.8497, number of clustring : 48
+Level 6 - Silhouette: 0.5029, Davies-Bouldin: 0.5070, Calinski-Harabasz: 16942.4182, number of clustring : 24
+Level 7 - Silhouette: 0.5091, Davies-Bouldin: 0.5280, Calinski-Harabasz: 8593.2893, number of clustring : 11
+Level 8 - Silhouette: 0.5267, Davies-Bouldin: 0.5724, Calinski-Harabasz: 5167.1833, number of clustring : 6
+Level 9 - Silhouette: 0.2383, Davies-Bouldin: 1.0331, Calinski-Harabasz: 1165.1354, number of clustring : 3
+Level 10 - Silhouette: 0.3433, Davies-Bouldin: 1.4499, Calinski-Harabasz: 1175.8489, number of clustring : 2
+Level 11 - Single cluster detected, skipping evaluation.
+(1698727, 145773307)
+time  46.94198393821716
+
+Linkage: ward
+Silhouette Score: 0.5497871728856719
+Davies-Bouldin Index: 0.5889687452751857
+Calinski-Harabasz Index: 5064.963912542757
+Average Silhouette Per Sample: 0.5497871728856719
+number cluster: 4
+
+Linkage: complete
+Silhouette Score: 0.5497871728856719
+Davies-Bouldin Index: 0.5889687452751857
+Calinski-Harabasz Index: 5064.963912542757
+Average Silhouette Per Sample: 0.5497871728856719
+number cluster: 4
+
+Linkage: average
+Silhouette Score: 0.5497871728856719
+Davies-Bouldin Index: 0.5889687452751857
+Calinski-Harabasz Index: 5064.963912542757
+Average Silhouette Per Sample: 0.5497871728856719
+number cluster: 4
+
+Linkage: single
+Silhouette Score: 0.31809502333159145
+Davies-Bouldin Index: 0.5116467778688037
+Calinski-Harabasz Index: 3.3326915079811097
+Average Silhouette Per Sample: 0.31809502333159145
+number cluster: 4
+
+
+Process finished with exit code 0
